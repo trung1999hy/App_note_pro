@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Notepad Pro</string>
+
+    <!-- Menu Options -->
+    <string name="share">Chia sẻ</string>
+    <string name="filter">Lọc</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="delete">Xóa</string>
+    <string name="restore">Khôi phục</string>
+    <string name="archive">Lưu trữ</string>
+    <string name="set_time">Hẹn giờ</string>
+    <string name="set_pass">Đặt mật khẩu</string>
+    <string name="edit_pass">Chỉnh sửa mật khẩu</string>
+    <string name="delete_pass">Xóa mật khẩu</string>
+    <string name="unarchive">Bỏ lưu trữ</string>
+    <string name="delete_all">Xóa toàn bộ</string>
+    <string name="change_color">Đổi màu</string>
+    <string name="delete_forever">Xóa vĩnh viễn</string>
+    <string name="add_image">Thêm ảnh</string>
+
+    <!-- Fragment Titles -->
+    <string name="notes">Ghi chú</string>
+    <string name="labels">Nhãn</string>
+    <string name="deleted">Thùng rác</string>
+    <string name="archived">Lưu trữ</string>
+    <string name="settings">Cài đặt</string>
+    <string name="title">Tựa đề</string>
+    <string name="empty_note_content">Nội dung ghi chú trống</string>
+
+    <string name="message_toast">Nhấn quay lại lần nữa để thoát khỏi ứng dụng</string>
+    <string name="old_note_notification_from_recycle">Bạn có một ghi chú đã cũ từ thùng rác:</string>
+    <string name="old_note_notification_from_archive">Bạn có một ghi chú đã cũ từ kho lưu trữ:</string>
+    <string name="note_notification">Đã đến giờ:</string>
+    <string name="set_time_notification">Không được chọn thời gian nhỏ hơn hoặc bằng thời gian hiện tại</string>
+    <string name="recycle_null">Không có thông báo nào trong thùng rác</string>
+    <string name="pass_not_null">Mật khẩu không được để trống</string>
+    <string name="message_purchase_one">%s</string>
+</resources>
